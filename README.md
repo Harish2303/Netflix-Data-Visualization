@@ -25,27 +25,21 @@ This project provides an in-depth analysis of Netflix content data through vario
 - Required Python libraries
 
 ### Installation Steps
-1. **Clone the Repository**
 
    ```bash
    git clone https://github.com/Harish2303/netflix-data-visualization.git
    cd netflix-data-visualization
 
    Install Dependencies
-
-2. **Create a virtual environment (optional) and install the required packages:**
-   '''bash
-   
    pip install -r requirements.txt
+
    requirements.txt
+   numpy
+   pandas
+   seaborn
+   matplotlib
+   plotly
+   wordcloud
 
-
-numpy
-pandas
-seaborn
-matplotlib
-plotly
-wordcloud
 Upload Dataset
-
-Ensure you have the Netflix dataset (netflix_titles.csv) and place it in the data directory or update the file path in the notebook.
+**Ensure you have the Netflix dataset (netflix_titles.csv) and place it in the data directory or update the file path in the notebook.**
