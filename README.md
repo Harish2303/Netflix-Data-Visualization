@@ -35,8 +35,7 @@ This project provides an in-depth analysis of Netflix content data through vario
 
 2. Create a virtual environment (optional) and install the required packages:
 
-bash
-Copy code
+'''bash
 pip install -r requirements.txt
 requirements.txt
 
