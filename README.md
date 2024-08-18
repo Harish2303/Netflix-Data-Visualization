@@ -33,14 +33,13 @@ This project provides an in-depth analysis of Netflix content data through vario
 
    Install Dependencies
 
-2. Create a virtual environment (optional) and install the required packages:
+2. **Create a virtual environment (optional) and install the required packages:**
+   '''bash
+   
+   pip install -r requirements.txt
+   requirements.txt
 
-'''bash
-pip install -r requirements.txt
-requirements.txt
 
-plaintext
-Copy code
 numpy
 pandas
 seaborn
